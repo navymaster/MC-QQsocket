@@ -1,0 +1,3 @@
+id: "cn.navy_master.QQ_MC_tube"
+main: cn.navy_master.QQ_MC_tube.ClientMain
+version: "0.0.1"

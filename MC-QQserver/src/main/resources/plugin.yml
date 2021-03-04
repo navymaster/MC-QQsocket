@@ -1,0 +1,12 @@
+main: cn.navy_master.MC_QQ_server.ServerMain
+name: qq-mc
+version: 0.0.0
+api-version: 1.13
+author: navy_master
+commands:
+  bc:
+    description: send a message to linked qq group
+    usage: /<command> <message>
+  setQQ:
+    description: set op's qq
+    usage: /<command> <qq>
